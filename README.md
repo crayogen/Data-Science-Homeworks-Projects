@@ -1,1 +1,1 @@
-# Data-Science-Homeworks-Projects
+# Data Science Homeworks Projects
